@@ -5132,7 +5132,11 @@ fieldset:disabled .btn {
     background-clip: border-box;
     border: 1px solid #2b2b40;
     border-radius: 2rem;
-    box-shadow: 0 0 20px 0 rgba(76, 87, 125, .02)
+    box-shadow: 0 0 20px 0 rgba(76, 87, 125, .02);
+    background-image: url("https://wp.wp-preview.com/cryptibit/cryptibit-1/wp-content/uploads/2019/07/crypto-001-49.jpg?id=2148");
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
 }
 
 .card>hr {
