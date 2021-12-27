@@ -49239,7 +49239,8 @@ canvas {
 
 body {
     background-color: #151521;
-    background-size: fill;
+    background-repeat: no-repeat;
+    background-size: auto;
     background-image: url("https://wallpaperaccess.com/full/5143159.jpg");
 }
 
