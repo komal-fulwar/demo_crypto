@@ -16,7 +16,7 @@ body.dark-scheme.de-grey #content,
 .dark-scheme.de-grey .dropdown li span,
 .dark-scheme.de-grey .dropdown li span:hover,
 .dark-scheme .owl-prev, .dark-scheme .owl-next{
-    background: #01000f;
+    background: rgb(22, 29, 48);
 }
 
 .dark-scheme.de-grey header.smaller,
