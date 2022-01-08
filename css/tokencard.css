@@ -19915,7 +19915,7 @@ input[type=search],
 input[type=tel],
 input[type=color] input[type=radio],
 input[type=checkbox] {
-    height: 46px;
+    height: 38px;
     border-radius: 5px
 }
 
