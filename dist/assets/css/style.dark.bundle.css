@@ -49240,7 +49240,7 @@ canvas {
 body {
     background-color: #151521;
     background-repeat: repeat-y;
-    background-size: cover;
+    background-size: inherit;
     background-image: url("/dist/assets/media/UnicornVectorGradient_1.jpg");
 }
 
